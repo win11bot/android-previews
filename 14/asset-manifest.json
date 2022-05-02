@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "https://android-previews.pr.blueedge.me/14/static/css/main.ace49f4d.css",
+    "main.js": "https://android-previews.pr.blueedge.me/14/static/js/main.9548368d.js",
+    "static/media/slick.svg": "https://android-previews.pr.blueedge.me/14/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "https://android-previews.pr.blueedge.me/14/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "https://android-previews.pr.blueedge.me/14/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "https://android-previews.pr.blueedge.me/14/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "https://android-previews.pr.blueedge.me/14/index.html",
+    "main.ace49f4d.css.map": "https://android-previews.pr.blueedge.me/14/static/css/main.ace49f4d.css.map",
+    "main.9548368d.js.map": "https://android-previews.pr.blueedge.me/14/static/js/main.9548368d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ace49f4d.css",
+    "static/js/main.9548368d.js"
+  ]
+}
