@@ -1,18 +1,17 @@
 {
   "files": {
-    "main.css": "https://android-previews.pr.blueedge.me/28/static/css/main.252b0759.css",
-    "main.js": "https://android-previews.pr.blueedge.me/28/static/js/main.b883d7e9.js",
-    "service-worker.js": "https://android-previews.pr.blueedge.me/28/service-worker.js",
+    "main.css": "https://android-previews.pr.blueedge.me/28/static/css/main.003aae4a.css",
+    "main.js": "https://android-previews.pr.blueedge.me/28/static/js/main.7e9fc5eb.js",
     "static/media/slick.svg": "https://android-previews.pr.blueedge.me/28/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "https://android-previews.pr.blueedge.me/28/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "https://android-previews.pr.blueedge.me/28/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "https://android-previews.pr.blueedge.me/28/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "https://android-previews.pr.blueedge.me/28/index.html",
-    "main.252b0759.css.map": "https://android-previews.pr.blueedge.me/28/static/css/main.252b0759.css.map",
-    "main.b883d7e9.js.map": "https://android-previews.pr.blueedge.me/28/static/js/main.b883d7e9.js.map"
+    "main.003aae4a.css.map": "https://android-previews.pr.blueedge.me/28/static/css/main.003aae4a.css.map",
+    "main.7e9fc5eb.js.map": "https://android-previews.pr.blueedge.me/28/static/js/main.7e9fc5eb.js.map"
   },
   "entrypoints": [
-    "static/css/main.252b0759.css",
-    "static/js/main.b883d7e9.js"
+    "static/css/main.003aae4a.css",
+    "static/js/main.7e9fc5eb.js"
   ]
 }
